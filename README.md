@@ -30,14 +30,22 @@ as a population. Use this data to perform the following:</p>
         compare this with these statistics from the population for the same variable. Again, you should
         create charts for this comparison. Report on your findings.</p>
         <h3>Findings: </h3>
+        <ul>
+            <li>
         <img src="charts/bootstrap_bloodpressure_mean_comparison_chart.png" alt="Bootstrap BloodPressure Mean Comparison"> 
         <p>The dashed red line shows the true population mean of BloodPressure is at 69.11, which falls within the center of the distribution of sample means. The distribution of bootstrap sample means for BloodPressure appears approximately normal and ranges from approximately 64 to 74.</p>
+            </li>
+            <li>
          <img src="charts/bootstrap_bloodpressure_standard_deviation_comparison_chart.png" alt="Bootstrap Standard Deviation Comparison"> 
         <p>Bootstrap sample standard deviations for BloodPressure ranges from 12 to 27 center around the population standard deviation is 19.36, suggesting the resampling accurately captures the true variability.</p>
+            </li>
+            <li>
          <img src="charts/bootstrap_bloodpressure_98th_percentile_chart.png" alt="Boorstrap BloosPressure 98th Percentile Comparison"> 
         <p>The range of the bootstrapped sample 98th percentiles for BloodPressure, falls approximately between 90 to 115 whereas 98th percentile of population is 99.32. This suggests that the resampling method provides estimates that, on average, reflect the true 98th percentile of the population with some fluctuations.</p>
+            </li>
     </li>
 </ol>
 
 <p><strong>Submission:</strong></p>
-<p>Create a public GitHub repo and upload the folders for the assignment on the GitHub and submit the link to Canvas.</p>
+<p>Create a public GitHub repo and upload the folders for the assignment on the GitHub and submit the link to Canvas:</p>
+<a href="https://github.com/kevin3302/PDS-Assgn-3-SP25.git">Submission Link</a>
