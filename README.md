@@ -1,7 +1,7 @@
 # PDS-Assgn-3-SP25
 
 <p><strong>Data Link:</strong></p>
-<a href='https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv'>Diabetes.csv</a><br>
+<a href='https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv'>Diabetes.csv</a><br><br>
 
 1. The data file diabetes.csv contains data of 768 patients. In this data there are 8 attributes
 (Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, and Age)
@@ -13,6 +13,9 @@ as a population. Use this data to perform the following:</p>
         <p>set a seed (to ensure work reproducibility) and take a random sample of 25 observations and
         find the mean Glucose and highest Glucose values of this sample and compare these statistics
         with the population statistics of the same variable. You should use charts for this comparison.</p>
+        <img src="charts/glucose_mean_comparison_chart.png" alt="Glucose Mean Comparison">
+        <h3>Findings: </h3>
+        <p>The population distribution shows approximately normal distribution with a mean of 120.89 and a maximum of 199.00. The sample distribution is more irregular, with a mean of 116.64 and a maximum of 183.00. Comparatively Mean and Highest value of Population is higher than that of Sample.</p>
     </li>
     <li>
         <p>Find the 98th percentile of BMI of your sample and the population and compare the results
