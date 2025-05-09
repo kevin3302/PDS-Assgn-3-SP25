@@ -2,7 +2,7 @@
 
 <p><strong>Data Link:</strong></p>
 ```
-<a href="https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv">diabetes.csv</a>
+https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv
 ```
 1. The data file diabetes.csv contains data of 768 patients. In this data there are 8 attributes
 (Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, and Age)
@@ -24,8 +24,7 @@ as a population. Use this data to perform the following:</p>
         population and find the average mean, standard deviation and percentile for BloodPressure and
         compare this with these statistics from the population for the same variable. Again, you should
         create charts for this comparison. Report on your findings.</p>
-        <h3>Findings:</h3>
-        <p>The bootstrap analysis indicates that the distribution of sample means, standard deviations, and 98th percentiles for BloodPressure tend to center around the population parameters. The spread of these bootstrap distributions provides insight into the sampling variability associated with estimating these statistics from samples of size 150.</p>
+       
     </li>
 </ol>
 
