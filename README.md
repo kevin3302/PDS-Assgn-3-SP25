@@ -1,7 +1,7 @@
 # PDS-Assgn-3-SP25
 
 <p><strong>Data Link:</strong></p>
-<a href='https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv'>Diabetes.csv</a><br><br>
+<a href='https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv'>diabetes.csv</a><br><br>
 
 1. The data file diabetes.csv contains data of 768 patients. In this data there are 8 attributes
 (Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, and Age)
